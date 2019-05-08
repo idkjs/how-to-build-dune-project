@@ -1,0 +1,5 @@
+lib: [
+  "_build/install/default/lib/server/META" {"META"}
+  "_build/install/default/lib/server/dune-package" {"dune-package"}
+  "_build/install/default/lib/server/opam" {"opam"}
+]
